@@ -16,7 +16,7 @@ class Translation(object):
 
   DONATE_TXT = """<b><i>If you liked me ❤️. consider make a donation to support my developer 👦
 
-UPI ID - </i></b><code>pay-to-yash-singh@fam</code>"""
+UPI ID - </i></b><code>pay-to-Dev-devpareek001@ybl</code>"""
 
   HELP_TXT = """<b><u>🔆 ʜᴇʟᴘ</b></u>
 
@@ -59,7 +59,7 @@ UPI ID - </i></b><code>pay-to-yash-singh@fam</code>"""
 ╔════❰ ғᴏʀᴡᴀʀᴅ ʙᴏᴛ ❱═❍⊱❁
 ║╭━━━━━━━━━━━━━━━➣
 ║┣⪼📃ʙᴏᴛ : ғᴏʀᴡᴀʀᴅ ʙᴏᴛ
-║┣⪼👦ᴄʀᴇᴀᴛᴏʀ : sɪʟɪᴄᴏɴ ᴅᴇᴠᴇʟᴏᴘᴇʀ
+║┣⪼👦ᴄʀᴇᴀᴛᴏʀ : Dev
 ║┣⪼📡ʜᴏsᴛᴇᴅ ᴏɴ : ʜᴇʀᴏᴋᴜ
 ║┣⪼🗣️ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ3
 ║┣⪼📚ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ
