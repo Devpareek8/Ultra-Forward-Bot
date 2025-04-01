@@ -14,8 +14,8 @@ class Config:
     DATABASE_NAME = environ.get("DATABASE_NAME", "Dec")
     BOT_OWNER_ID = [int(id) for id in environ.get("BOT_OWNER_ID", '6914788581').split()]
     LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002382972200'))
-    FORCE_SUB_CHANNEL = environ.get("FORCE_SUB_CHANNEL", "https://t.me/MoviesEmpire_Backup") 
-    FORCE_SUB_ON = environ.get("FORCE_SUB_ON", "True")
+    FORCE_SUB_CHANNEL = environ.get("FORCE_SUB_CHANNEL", "MoviesEmpire_Backup") 
+    FORCE_SUB_ON = environ.get("FORCE_SUB_ON", "FALSE")
     PORT = environ.get('PORT', '8080')
     
 #Dont Remove My Credit @Silicon_Bot_Update 
